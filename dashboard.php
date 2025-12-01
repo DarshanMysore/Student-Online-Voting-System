@@ -43,6 +43,5 @@ $user = $_SESSION['user'];
         <?php endif; ?>
     </div>
 </div>
-
 </body>
 </html>
